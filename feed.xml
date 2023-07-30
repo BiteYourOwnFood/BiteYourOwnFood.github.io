@@ -3,10 +3,23 @@
     <title>Bite Your Own Food</title>
     <link href="https://biteyourownfood.com/feed.xml" rel="self" />
     <link href="https://biteyourownfood.com" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2023-07-30T20:03:01+05:30</updated>
     <author>
         <name>Vinay Panchal</name>
     </author>
     <id>https://biteyourownfood.com</id>
 
+    <entry>
+        <title>Easy Lemonade</title>
+        <author>
+            <name>Vinay Panchal</name>
+        </author>
+        <link href="https://biteyourownfood.com/easy-lemonade/"/>
+        <id>https://biteyourownfood.com/easy-lemonade/</id>
+            <category term="Simple"/>
+
+        <updated>2023-07-30T20:03:01+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
