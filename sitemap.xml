@@ -5,7 +5,39 @@
 <loc>https://biteyourownfood.com/</loc>
 </url>
 <url>
-<loc>https://biteyourownfood.com/easy-lemonade/</loc>
-<lastmod>2023-07-30T20:03:01+05:30</lastmod>
+<loc>https://biteyourownfood.com/lemonade-recipe/</loc>
+<lastmod>2023-07-31T00:51:24+05:30</lastmod>
+<image:image>
+<image:loc>https://biteyourownfood.com/media/posts/5/lemonaderecipe.jpg</image:loc>
+<image:title><![CDATA[Lemonade Recipe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://biteyourownfood.com/sample-simple/</loc>
+<lastmod>2023-07-30T20:34:50+05:30</lastmod>
+</url>
+<url>
+<loc>https://biteyourownfood.com/sample-standard/</loc>
+<lastmod>2023-07-30T21:10:32+05:30</lastmod>
+</url>
+<url>
+<loc>https://biteyourownfood.com/sample-story/</loc>
+<lastmod>2023-07-30T20:16:48+05:30</lastmod>
+</url>
+<url>
+<loc>https://biteyourownfood.com/sarcastic-lemonade/</loc>
+<lastmod>2023-07-31T00:51:37+05:30</lastmod>
+<image:image>
+<image:loc>https://biteyourownfood.com/media/posts/1/sarcasticlemonade.jpg</image:loc>
+<image:title><![CDATA[Sarcastic Lemonade]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://biteyourownfood.com/weird-story-of-lemonade/</loc>
+<lastmod>2023-07-31T00:51:14+05:30</lastmod>
+<image:image>
+<image:loc>https://biteyourownfood.com/media/posts/6/storyoflemonade.jpg</image:loc>
+<image:title><![CDATA[Weird Story of Lemonade]]></image:title>
+</image:image>
 </url>
 </urlset>
