@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bite Your Own Food",
+    "description": "",
+    "home_page_url": "https://biteyourownfood.com",
+    "feed_url": "https://biteyourownfood.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vinay Panchal"
+    },
+    "items": [
+    ]
+}
